@@ -15,4 +15,4 @@ Which passengers were most likely to survive the Titanic?
 ## How to run
 1. Download train.csv from kaggle.com/competitions/titanic/data
 2. Put it in data/raw/
-3. Open titanic.ipynb and run all cells.
+3. Open main.ipynb and run all cells.
